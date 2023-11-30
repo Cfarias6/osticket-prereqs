@@ -101,7 +101,3 @@ Back in osTicket in the browser you can enter the information for MySQL database
 </P>
 <br />
 <img src="https://i.imgur.com/bLQ99x4.png" height="80%" width="80%" alt="Congrats"/>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
